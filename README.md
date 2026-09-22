@@ -1,5 +1,3 @@
----
-
 # Comprehensive Project Report: Design, Hardware Integration, and Software Architecture of the Autonomous Robo-Car
 
 ## 1. Introduction & Project Overview
